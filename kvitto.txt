@@ -11,9 +11,3 @@ Kvitto:
 Mjölk * 3 * 35 = 105kr
 Banan * 1 * 20 = 20kr
 Snus * 3 * 40 = 120kr
- 
-2023-03-06 00:00:00
-Kvitto:
-Mjölk * 3 * 35 = 105kr
-Nocco * 10 * 25 = 250kr
-Snus * 10 * 40 = 400kr
