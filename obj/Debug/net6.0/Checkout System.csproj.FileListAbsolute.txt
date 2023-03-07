@@ -1,0 +1,15 @@
+C:\Users\joelm\OneDrive\Skrivbord\Checkout System\bin\Debug\net6.0\Checkout System.exe
+C:\Users\joelm\OneDrive\Skrivbord\Checkout System\bin\Debug\net6.0\Checkout System.deps.json
+C:\Users\joelm\OneDrive\Skrivbord\Checkout System\bin\Debug\net6.0\Checkout System.runtimeconfig.json
+C:\Users\joelm\OneDrive\Skrivbord\Checkout System\bin\Debug\net6.0\Checkout System.dll
+C:\Users\joelm\OneDrive\Skrivbord\Checkout System\bin\Debug\net6.0\Checkout System.pdb
+C:\Users\joelm\OneDrive\Skrivbord\Checkout System\obj\Debug\net6.0\Checkout System.csproj.AssemblyReference.cache
+C:\Users\joelm\OneDrive\Skrivbord\Checkout System\obj\Debug\net6.0\Checkout System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joelm\OneDrive\Skrivbord\Checkout System\obj\Debug\net6.0\Checkout System.AssemblyInfoInputs.cache
+C:\Users\joelm\OneDrive\Skrivbord\Checkout System\obj\Debug\net6.0\Checkout System.AssemblyInfo.cs
+C:\Users\joelm\OneDrive\Skrivbord\Checkout System\obj\Debug\net6.0\Checkout System.csproj.CoreCompileInputs.cache
+C:\Users\joelm\OneDrive\Skrivbord\Checkout System\obj\Debug\net6.0\Checkout System.dll
+C:\Users\joelm\OneDrive\Skrivbord\Checkout System\obj\Debug\net6.0\refint\Checkout System.dll
+C:\Users\joelm\OneDrive\Skrivbord\Checkout System\obj\Debug\net6.0\Checkout System.pdb
+C:\Users\joelm\OneDrive\Skrivbord\Checkout System\obj\Debug\net6.0\Checkout System.genruntimeconfig.cache
+C:\Users\joelm\OneDrive\Skrivbord\Checkout System\obj\Debug\net6.0\ref\Checkout System.dll
