@@ -1,13 +1,8 @@
-2023-03-06 00:00:00
-Kvitto:
-Banan * 1 * 20 = 20kr
-Mjölk * 2 * 35 = 70kr
-Citron * 3 * 30 = 90kr
-Nocco * 4 * 25 = 100kr
-Snus * 5 * 40 = 200kr
  
-2023-03-06 00:00:00
+2023-03-10 00:00:00
 Kvitto:
-Mjölk * 3 * 35 = 105kr
-Banan * 1 * 20 = 20kr
-Snus * 3 * 40 = 120kr
+Mjölk  1 * 35 = 35kr
+Banan  1 * 20 = 20kr
+Citron  3 * 30 = 90kr
+Nocco  4 * 25 = 100kr
+Snus  5 * 40 = 200kr

@@ -43,32 +43,32 @@ static class Program
                 case "100":
                     Console.WriteLine(a1.GetName());
                     int antal = Int32.Parse(antals);
-                    file.WriteLine(a1.GetName() + " * "  + antal + " * " + a1.GetPrice() + " = " + (antal * a1.GetPrice()) + "kr");
+                    file.WriteLine(a1.GetName() + "  "  + antal + " * " + a1.GetPrice() + " = " + (antal * a1.GetPrice()) + "kr");
                     //string kvitto =  antal+ " * " + a1.GetPrice()+" = "+ (antal * a1.GetPrice()) + "kr";
                     //Console.WriteLine( kvitto);
                     break;
                 case "200":
                     Console.WriteLine(a2.GetName());
                     antal = Int32.Parse(antals);
-                    file.WriteLine(a2.GetName() + " * "  + antal + " * " + a2.GetPrice() + " = " + (antal * a2.GetPrice()) + "kr");
+                    file.WriteLine(a2.GetName() + "  "  + antal + " * " + a2.GetPrice() + " = " + (antal * a2.GetPrice()) + "kr");
                     //Console.WriteLine(antal + " * " + a2.GetPrice() + " = " + (antal * a2.GetPrice()) + "kr");
                     break;
                 case "300":
                     Console.WriteLine(a3.GetName());
                     antal = Int32.Parse(antals);
-                    file.WriteLine(a3.GetName() + " * "  + antal + " * " + a3.GetPrice() + " = " + (antal * a3.GetPrice()) + "kr");
+                    file.WriteLine(a3.GetName() + "  "  + antal + " * " + a3.GetPrice() + " = " + (antal * a3.GetPrice()) + "kr");
                    //Console.WriteLine(antal + " * " + a3.GetPrice() + " = " + (antal * a3.GetPrice()) + "kr");
                     break;
                 case "400":
                     Console.WriteLine(a4.GetName());
                     antal = Int32.Parse(antals);
-                    file.WriteLine(a4.GetName() + " * " + antal + " * " + a4.GetPrice() + " = " + (antal * a4.GetPrice()) + "kr");
+                    file.WriteLine(a4.GetName() + "  " + antal + " * " + a4.GetPrice() + " = " + (antal * a4.GetPrice()) + "kr");
                     //Console.WriteLine(antal + " * " + a4.GetPrice() + " = " + (antal * a4.GetPrice()) + "kr");
                     break;
                 case "500":
                     Console.WriteLine(a5.GetName());
                     antal = Int32.Parse(antals);
-                    file.WriteLine(a5.GetName() + " * "  + antal + " * " + a5.GetPrice() + " = " + (antal * a5.GetPrice()) + "kr");
+                    file.WriteLine(a5.GetName() + "  "  + antal + " * " + a5.GetPrice() + " = " + (antal * a5.GetPrice()) + "kr");
                     //Console.WriteLine(antal + " * " + a5.GetPrice() + " = " + (antal * a5.GetPrice()) + "kr");
                     break;
                 case "pay":
